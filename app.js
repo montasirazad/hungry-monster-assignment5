@@ -1,4 +1,5 @@
-
+// repo link : https://github.com/montasirazad/hungry-monster-assignment5
+// live site : https://montasirazad.github.io/hungry-monster-assignment5/
 
 function meal() {
    const search = document.getElementById('search-field').value;
@@ -101,19 +102,4 @@ const mealPreview = (allMeals) => {
 
 
 
-
-// for (let i = 0; i <20; i++) {
-//    if ( detail[`strIngredient${i}`]) {
-//     ingredients.push(
-//       `${detail[`strIngredient${i}`]} - ${detail[`strMeasure${i}`]}      `
-
-//     )
-
-//    }
-//    else{
-//       break;
-//    }
-
-
-
-// }
+ 
